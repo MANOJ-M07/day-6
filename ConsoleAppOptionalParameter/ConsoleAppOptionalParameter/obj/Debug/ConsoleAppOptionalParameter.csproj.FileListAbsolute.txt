@@ -1,0 +1,8 @@
+D:\simplilearn\day-6\ConsoleAppOptionalParameter\ConsoleAppOptionalParameter\bin\Debug\ConsoleAppOptionalParameter.exe.config
+D:\simplilearn\day-6\ConsoleAppOptionalParameter\ConsoleAppOptionalParameter\bin\Debug\ConsoleAppOptionalParameter.exe
+D:\simplilearn\day-6\ConsoleAppOptionalParameter\ConsoleAppOptionalParameter\bin\Debug\ConsoleAppOptionalParameter.pdb
+D:\simplilearn\day-6\ConsoleAppOptionalParameter\ConsoleAppOptionalParameter\obj\Debug\ConsoleAppOptionalParameter.csproj.AssemblyReference.cache
+D:\simplilearn\day-6\ConsoleAppOptionalParameter\ConsoleAppOptionalParameter\obj\Debug\ConsoleAppOptionalParameter.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-6\ConsoleAppOptionalParameter\ConsoleAppOptionalParameter\obj\Debug\ConsoleAppOptionalParameter.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-6\ConsoleAppOptionalParameter\ConsoleAppOptionalParameter\obj\Debug\ConsoleAppOptionalParameter.exe
+D:\simplilearn\day-6\ConsoleAppOptionalParameter\ConsoleAppOptionalParameter\obj\Debug\ConsoleAppOptionalParameter.pdb

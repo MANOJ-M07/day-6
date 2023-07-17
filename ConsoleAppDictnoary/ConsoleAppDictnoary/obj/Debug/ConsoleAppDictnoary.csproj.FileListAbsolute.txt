@@ -1,0 +1,8 @@
+D:\simplilearn\day-6\ConsoleAppDictnoary\ConsoleAppDictnoary\bin\Debug\ConsoleAppDictnoary.exe.config
+D:\simplilearn\day-6\ConsoleAppDictnoary\ConsoleAppDictnoary\bin\Debug\ConsoleAppDictnoary.exe
+D:\simplilearn\day-6\ConsoleAppDictnoary\ConsoleAppDictnoary\bin\Debug\ConsoleAppDictnoary.pdb
+D:\simplilearn\day-6\ConsoleAppDictnoary\ConsoleAppDictnoary\obj\Debug\ConsoleAppDictnoary.csproj.AssemblyReference.cache
+D:\simplilearn\day-6\ConsoleAppDictnoary\ConsoleAppDictnoary\obj\Debug\ConsoleAppDictnoary.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-6\ConsoleAppDictnoary\ConsoleAppDictnoary\obj\Debug\ConsoleAppDictnoary.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-6\ConsoleAppDictnoary\ConsoleAppDictnoary\obj\Debug\ConsoleAppDictnoary.exe
+D:\simplilearn\day-6\ConsoleAppDictnoary\ConsoleAppDictnoary\obj\Debug\ConsoleAppDictnoary.pdb
